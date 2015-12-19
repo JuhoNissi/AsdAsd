@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+c:\users\j-devil\documents\visual studio 2015\projects\tetris\tetris\tetris.cpp(249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\j-devil\documents\visual studio 2015\projects\tetris\tetris\tetris.cpp(354): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\j-devil\documents\visual studio 2015\projects\tetris\tetris\tetris.cpp(365): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris.vcxproj -> c:\users\j-devil\documents\visual studio 2015\Projects\Tetris\Debug\Tetris.exe
